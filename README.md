@@ -6,3 +6,8 @@
 ## CONTÁCTAME
 
 # Para seguir creciendo profesionalmente, estoy en búsqueda de una oportunidad laboral en laboratorio o granja/planta avícola en donde mostrar mis habilidades.
+
+## TECNOLOGÍAS
+- HTML
+- CSS
+- JAVASCRIPT
