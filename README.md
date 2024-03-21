@@ -9,4 +9,5 @@
 
 ## IDIOMAS
 
+- Español: nativo
 - Inglés: básico
