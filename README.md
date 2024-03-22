@@ -23,3 +23,8 @@
 
 - Crianza de gallinas de postura
 - Diseño gráfico (Canva)
+
+## IDIOMAS
+
+- Español: nativo
+- Inglés: básico
