@@ -18,3 +18,8 @@
 - Manejo de animales
 - Toma de muestras
 - Trabajo en campo
+
+## HOBBIES
+
+- Producción de gallinas de postura
+- Diseño gráfico (Canva)
