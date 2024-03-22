@@ -21,5 +21,5 @@
 
 ## HOBBIES
 
-- Producción de gallinas de postura
+- Crianza de gallinas de postura
 - Diseño gráfico (Canva)
